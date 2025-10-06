@@ -21,7 +21,7 @@ const Hero = () => {
           Prêt à adopter l'IA ?
         </h1>
         
-        <p className="text-xl md:text-2xl font-light mb-4 max-w-3xl mx-auto text-muted-foreground">Optimiser et performer. Vos défis, notre objectif</p>
+        <p className="text-xl md:text-2xl font-light mb-4 max-w-3xl mx-auto text-muted-foreground">Mettons ensemble tout le potentiel de l'intelligence artificielle à votre service. Efficacement.</p>
         
         
         
