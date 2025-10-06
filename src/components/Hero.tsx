@@ -23,8 +23,7 @@ const Hero = () => {
       
       <div className="container mx-auto px-6 relative z-10 text-center fade-in-up">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Adoptez l'IA et créez de la{" "}
-          <span className="text-gradient">valeur mesurable</span>.
+          Prêt à adopter l'IA ?
         </h1>
         
         <p className="text-xl md:text-2xl font-light mb-4 max-w-3xl mx-auto text-muted-foreground">
