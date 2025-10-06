@@ -1,6 +1,5 @@
 const About = () => {
-  return (
-    <section className="py-24 bg-background">
+  return <section className="py-24 bg-background">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-8">
@@ -10,21 +9,14 @@ const About = () => {
             <p>
               ValorIA est une startup française spécialisée dans l'intelligence artificielle appliquée à la productivité.
             </p>
-            <p>
-              Nous aidons les entreprises à automatiser leurs flux, à améliorer leurs interactions clients 
-              et à se concentrer sur l'essentiel : la croissance.
-            </p>
+            <p>Nous aidons les entreprises à automatiser leurs flux, à améliorer leurs interactions clients et à se concentrer sur l'essentiel : leur coeur de métier et la croissance.</p>
             <p>
               Notre mission est simple : rendre l'IA utile, accessible et orientée performance.
             </p>
-            <p className="font-medium text-foreground">
-              Chaque projet est conçu sur mesure, avec une approche humaine et des résultats mesurables.
-            </p>
+            <p className="font-medium text-foreground">Chaque projet est conçu sur mesure, avec une approche humaine, pédagogique et des résultats mesurables.</p>
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default About;
