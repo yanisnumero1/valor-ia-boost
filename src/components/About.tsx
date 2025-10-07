@@ -9,7 +9,7 @@ const About = () => {
             <p>
               ValorIA est une startup française spécialisée dans l'intelligence artificielle appliquée à la productivité.
             </p>
-            <p>Nous aidons les entreprises à automatiser leurs flux, à améliorer leurs interactions clients et à se concentrer sur l'essentiel : leur coeur de métier et la croissance.</p>
+            <p>Nous aidons les entreprises à automatiser leurs tâches, améliorer leur relation client,  profiter de la puissance de l'IA appliquée à leur métier et à se concentrer sur l'essentiel : la croissance.</p>
             <p>
               Notre mission est simple : rendre l'IA utile, accessible et orientée performance.
             </p>
