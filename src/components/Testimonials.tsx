@@ -4,7 +4,7 @@ const Testimonials = () => {
   const testimonials = [
     {
       quote:
-        "ValorIA a automatisé 80 % de nos tâches administratives. Le retour sur investissement a été immédiat.",
+        "On a aujourd'hui un agent conversationnel interne qui facilite l'accès à l'info et bouleverse notre quotidien.",
       author: "Julien R.",
       role: "CEO d'une agence marketing",
     },
